@@ -27,16 +27,16 @@
 ## MODULE-3
 
 - [ ] Arrays
-- [ ]   1-Dimensional Array  
-- [ ]   2-Dimensional Array
+  - [ ] 1-Dimensional Array  
+  - [ ] 2-Dimensional Array
 - [ ] Strings
 - [ ] String handling functions
-- [ ]   strlen
-- [ ]   strcpy
-- [ ]   strcat  
-- [ ]   strcmp
-- [ ]   puts
-- [ ]   gets
+  - [ ] strlen
+  - [ ] strcpy
+  - [ ] strcat  
+  - [ ] strcmp
+  - [ ] puts
+  - [ ] gets
 - [ ] Linear search and bubble sort program
 
 ## MODULE-4
@@ -57,17 +57,17 @@
 - [ ] Array and pointers
 - [ ] Pass by reference effect with eg
 - [ ] File Operations:
-- [ ]   open
-- [ ]   close
-- [ ]   read
-- [ ]   write
-- [ ]   append
+  - [ ] open
+  - [ ] close
+  - [ ] read
+  - [ ] write
+  - [ ] append
 - [ ] Sequential access and random access to files.
 - [ ] File handling function rewind()
-- [ ]   fseek()
-- [ ]   ftell()
-- [ ]   feof()
-- [ ]   fread()
-- [ ]   fwrite()
+  - [ ] fseek()
+  - [ ] ftell()
+  - [ ] feof()
+  - [ ] fread()
+  - [ ] fwrite()
 
 ---
