@@ -1,5 +1,12 @@
 import re, math
 
+"""
+This program is just for updating the progress bar based on the completed topics
+
+Just run this program and it will update the url for the progress bar, so that it will have the correct progress.
+NOTE: Only works if both this file and the README.md file are in the same directory/folder by default!
+"""
+
 def calculate_progress(markdown_text):
     items = re.findall(r'- \[.\]', markdown_text)
     total_items = len(items)
