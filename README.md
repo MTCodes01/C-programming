@@ -1,4 +1,4 @@
-# Topics
+# Topics ![](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -27,13 +27,13 @@
 ## MODULE-3
 
 - [ ] Arrays
-  - [ ] 1-Dimensional Array  
+  - [ ] 1-Dimensional Array
   - [ ] 2-Dimensional Array
 - [ ] Strings
 - [ ] String handling functions
   - [ ] strlen
   - [ ] strcpy
-  - [ ] strcat  
+  - [ ] strcat
   - [ ] strcmp
   - [ ] puts
   - [ ] gets
