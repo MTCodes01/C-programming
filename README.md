@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/37?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/43?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -27,15 +27,15 @@
 ## MODULE-3
 
 - [ ] Arrays
-  - [ ] 1-Dimensional Array
+  - [x] 1-Dimensional Array
     - [x] Bubble Sort
     - [x] Linear Search
     - [x] Finding the maximum and minimum elements
     - [x] Reversing an array
     - [x] Finding the sum and average of elements
-    - [ ] Removing duplicates from an array
-    - [ ] Merging two arrays
-    - [ ] Rotating an array (left or right)
+    - [x] Removing duplicates from an array
+    - [x] Merging two arrays
+    - [x] Rotating an array (left or right)
   - [ ] 2-Dimensional Array
 - [ ] Strings
 - [ ] String handling functions
