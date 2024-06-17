@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/63?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -52,11 +52,13 @@
 
 ## MODULE-4
 
-- [ ] Modular programming, writing functions
-- [ ] Formal & actual parameters
-- [ ] Pass by Value with eg
-- [ ] Recursion
-- [ ] Arrays as Function Parameters
+- [x] Modular programming, writing functions
+- [x] Formal & actual parameters
+- [x] Pass by Value with eg
+- [x] Recursion
+- [x] Arrays as Function Parameters
+- [x] Bubble sort using function
+- [ ] Linear Search using funtion
 - [ ] structure & union
 - [ ] Storage Classes
 - [ ] Scope & life time of variables
