@@ -1,0 +1,5 @@
+1. Start: Begin the search process.
+2. Initialization: Initialize the array and set the target value.
+3. Loop: Iterate through the array elements.
+4. Comparison: Check if the current element matches the target value.
+5. Result: If found, print the index. If not found after checking all elements, print that the element isn't in the array.

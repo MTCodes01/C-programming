@@ -1,0 +1,23 @@
+Step 1: Start
+
+Step 2: Initialize the array A with n elements.
+
+Step 3: Set a target value x to be searched.
+
+Step 4: Set an index i to 0.
+
+Step 5: Repeat Steps 6 to 9 until i is less than n.
+
+Step 6: If A[i] is equal to x, go to Step 10.
+
+Step 7: Increment i by 1 (i.e., i = i + 1).
+
+Step 8: If i is equal to n, go to Step 11.
+
+Step 9: Repeat from Step 6.
+
+Step 10: Print "Element found at index i."
+
+Step 11: Print "Element not found in the array."
+
+Step 12: Stop
