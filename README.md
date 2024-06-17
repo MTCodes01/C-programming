@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/81?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -65,10 +65,10 @@
 
 ## MODULE-5
 
-- [ ] Basics of Pointer
-- [ ] NULL pointer
-- [ ] Array and pointers
-- [ ] Pass by reference effect with eg
+- [x] Basics of Pointer
+- [x] NULL pointer
+- [x] Array and pointers
+- [x] Pass by reference with eg
 - [ ] File Operations:
   - [ ] open
   - [ ] close
