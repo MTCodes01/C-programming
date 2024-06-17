@@ -16,22 +16,17 @@ int main() {
             scanf("%d", &A[i][j]);
         }
     }
-
     printf("Enter elements of second matrix:\n");
     for (int i = 0; i < row2; i++) {
         for (int j = 0; j < col2; j++) {
             scanf("%d", &B[i][j]);
         }
     }
-
-    // Initializing elements of matrix mul to 0.
     for (int i = 0; i < row1; i++) {
         for (int j = 0; j < col2; j++) {
             MUL[i][j] = 0;
         }
     }
-
-    // Multiplying matrices a and b and storing in array mul.
     for (int i = 0; i < row1; i++) {
         for (int j = 0; j < col2; j++) {
             for (int k = 0; k < col1; k++) {
@@ -39,7 +34,6 @@ int main() {
             }
         }
     }
-
     printf("Product of the matrices:\n");
     for (int i = 0; i < row1; i++) {
         for (int j = 0; j < col2; j++) {
@@ -47,6 +41,5 @@ int main() {
         }
         printf("\n");
     }
-
     return 0;
 }
