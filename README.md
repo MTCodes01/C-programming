@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/51?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/63?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -41,15 +41,14 @@
     - [x] Matrix Subtration
     - [x] Matrix Multiplication
     - [x] Matrix Transpose
-- [ ] Strings
-- [ ] String handling functions
-  - [ ] strlen
-  - [ ] strcpy
-  - [ ] strcat
-  - [ ] strcmp
-  - [ ] puts
-  - [ ] gets
-- [x] Linear search and bubble sort program
+- [x] Strings
+- [x] String handling functions
+  - [x] strlen
+  - [x] strcpy
+  - [x] strcat
+  - [x] strcmp
+  - [x] puts
+  - [x] gets
 
 ## MODULE-4
 
