@@ -151,7 +151,8 @@ int main() {
 
     return 0;
 }
-
+```
+## Output
 ```mathematica
 Before swapping: num1 = 10, num2 = 20
 After swapping: num1 = 20, num2 = 10
