@@ -20,4 +20,5 @@ int main() {
         }
     }
     printf("Maximum Element: %d\nMinimum Element: %d", A[n-1], A[0]);
+    return 0;
 }

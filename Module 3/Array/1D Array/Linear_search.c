@@ -19,4 +19,5 @@ int main() {
     if (flag == 0) {
         printf("The number %d not found in the given array!", num);
     }
+    return 0;
 }
