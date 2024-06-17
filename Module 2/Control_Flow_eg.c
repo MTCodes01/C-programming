@@ -10,7 +10,7 @@ int main() {
         printf("If Statement: Number is positive\n");
     }
 
-    // Else Statement
+    // If-Else Statement
     if (num > 0) {
         printf("Else Statement: Number is positive\n");
     } else {
