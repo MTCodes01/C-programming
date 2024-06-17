@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/51?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -49,7 +49,7 @@
   - [ ] strcmp
   - [ ] puts
   - [ ] gets
-- [ ] Linear search and bubble sort program
+- [x] Linear search and bubble sort program
 
 ## MODULE-4
 
