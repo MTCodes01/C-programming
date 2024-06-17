@@ -29,7 +29,7 @@ int main() {
 }
 ```
 
-## #Local Variables
+### Local Variables
 - Declared inside a function or block: Accessible only within that function or block.
 - Scope: Begins when the function or block is entered and ends when the function or block exits.
 Example:
