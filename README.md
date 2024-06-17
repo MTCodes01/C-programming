@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/23?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -7,13 +7,13 @@
 - [x] Memory hierarchy with diagram
 - [x] Application & System software.
 - [x] Compilers
-- [ ] Interpreters
-- [ ] Assemblers
-- [ ] High level and low level languages
-- [ ] Flow chart
-- [ ] Algorithms
-- [ ] Pseudo code
-- [ ] Bubble sort,linear search - algorithms, Flowchart,pseudocode
+- [x] Interpreters
+- [x] Assemblers
+- [x] High level and low level languages
+- [x] Flow chart
+- [x] Algorithms
+- [x] Pseudo code
+- [x] Bubble sort,linear search - algorithms, Flowchart,pseudocode
 
 ## MODULE-2
 

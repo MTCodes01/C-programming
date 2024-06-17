@@ -1,0 +1,9 @@
+1. Start
+2. Initialize the array A with n elements.
+3. Outer Loop: Iterate i from 0 to n-1.
+4. Inner Loop: For each i, iterate j from 0 to n-i-2.
+5. Comparison: Compare A[j] with A[j+1].
+6. Swap: If A[j] is greater than A[j+1], swap them.
+7. Repeat the inner loop until all elements are compared and swapped for the current pass.
+8. Repeat the outer loop until all passes are completed.
+9. Stop when the array is sorted.

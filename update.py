@@ -21,6 +21,7 @@ def update_progress_url():
         base_url = fh.readline()
         markdown_text = fh.read()
         progress = calculate_progress(markdown_text)
+        print(f"Progress: {progress} %")
         new_url = re.sub(r'progress/\d+', f'progress/{progress}', base_url)
         update(markdown_text, new_url)
 

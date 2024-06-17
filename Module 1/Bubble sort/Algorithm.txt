@@ -1,0 +1,21 @@
+Step 1: Start
+
+Step 2: Initialize the array A with n elements.
+
+Step 3: Set i = 0 (the outer loop counter).
+
+Step 4: Repeat steps 5 to 10 until i < n-1.
+
+Step 5: Set j = 0 (the inner loop counter).
+
+Step 6: Repeat steps 7 to 9 until j < n-i-1.
+
+Step 7: Compare A[j] and A[j+1].
+
+Step 8: If A[j] is greater than A[j+1], swap A[j] and A[j+1].
+
+Step 9: Increment j by 1 (i.e., j = j + 1).
+
+Step 10: Increment i by 1 (i.e., i = i + 1).
+
+Step 11: Stop (the array A is now sorted).
