@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/26?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/27?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -32,7 +32,7 @@
     - [x] Linear Search
     - [x] Finding the maximum and minimum elements
     - [x] Reversing an array
-    - [ ] Finding the sum and average of elements
+    - [x] Finding the sum and average of elements
     - [ ] Removing duplicates from an array
     - [ ] Merging two arrays
     - [ ] Rotating an array (left or right)
