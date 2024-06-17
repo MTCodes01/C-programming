@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/31?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/37?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -19,10 +19,10 @@
 
 - [x] Operators in C with eg.
 - [x] Operators Precedence
-- [ ] Control Flow Statements -- Syntax with Example
-- [ ] Looping Statement -- Syntax with Example
-- [ ] goto statement -- Syntax with Example
-- [ ] Break and Continue Statements -- Syntax with Example
+- [x] Control Flow Statements -- Syntax with Example
+- [x] Looping Statement -- Syntax with Example
+- [x] goto statement -- Syntax with Example
+- [x] Break and Continue Statements -- Syntax with Example
 
 ## MODULE-3
 
