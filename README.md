@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/81?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -69,18 +69,19 @@
 - [x] NULL pointer
 - [x] Array and pointers
 - [x] Pass by reference with eg
-- [ ] File Operations:
-  - [ ] open
-  - [ ] close
-  - [ ] read
-  - [ ] write
-  - [ ] append
-- [ ] Sequential access and random access to files.
-- [ ] File handling function rewind()
-  - [ ] fseek()
-  - [ ] ftell()
-  - [ ] feof()
-  - [ ] fread()
-  - [ ] fwrite()
+- [x] File Operations:
+  - [x] open
+  - [x] close
+  - [x] read
+  - [x] write
+  - [x] append
+- [x] Sequential access and random access to files.
+- [x] File handling function
+  - [x] rewind()
+  - [x] fseek()
+  - [x] ftell()
+  - [x] feof()
+  - [x] fread()
+  - [x] fwrite()
 
 ---
