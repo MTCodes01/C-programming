@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -58,10 +58,10 @@
 - [x] Recursion
 - [x] Arrays as Function Parameters
 - [x] Bubble sort using function
-- [ ] Linear Search using funtion
-- [ ] structure & union
-- [ ] Storage Classes
-- [ ] Scope & life time of variables
+- [x] Linear Search using funtion
+- [x] structure & union
+- [x] Storage Classes
+- [x] Scope & life time of variables
 
 ## MODULE-5
 
