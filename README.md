@@ -28,6 +28,14 @@
 
 - [ ] Arrays
   - [ ] 1-Dimensional Array
+    - [x] Bubble Sort
+    - [ ] Linear Search
+    - [ ] Finding the maximum and minimum elements
+    - [ ] Reversing an array
+    - [ ] Finding the sum and average of elements
+    - [ ] Removing duplicates from an array
+    - [ ] Merging two arrays
+    - [ ] Rotating an array (left or right)
   - [ ] 2-Dimensional Array
 - [ ] Strings
 - [ ] String handling functions
