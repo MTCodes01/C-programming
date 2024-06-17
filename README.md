@@ -1,4 +1,4 @@
-# Topics ![](https://geps.dev/progress/43?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/50?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
@@ -26,7 +26,7 @@
 
 ## MODULE-3
 
-- [ ] Arrays
+- [x] Arrays
   - [x] 1-Dimensional Array
     - [x] Bubble Sort
     - [x] Linear Search
@@ -36,7 +36,11 @@
     - [x] Removing duplicates from an array
     - [x] Merging two arrays
     - [x] Rotating an array (left or right)
-  - [ ] 2-Dimensional Array
+  - [x] 2-Dimensional Array
+    - [x] Matrix Addition
+    - [x] Matrix Subtration
+    - [x] Matrix Multiplication
+    - [x] Matrix Transpose
 - [ ] Strings
 - [ ] String handling functions
   - [ ] strlen
