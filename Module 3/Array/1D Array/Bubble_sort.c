@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int n = 1;
+    int n;
     printf("Enter a number: ");
     scanf("%d", &n);
     int A[20];

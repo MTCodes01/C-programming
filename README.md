@@ -1,12 +1,12 @@
-# Topics ![](https://geps.dev/progress/2?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Topics ![](https://geps.dev/progress/12?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ## MODULE-1
 
-- [ ] Function units of a computer -- Explain with block diagram
-- [ ] Types of CPU registers
-- [ ] Memory hierarchy with diagram
-- [ ] Application & System software.
-- [ ] Compilers
+- [x] Function units of a computer -- Explain with block diagram
+- [x] Types of CPU registers
+- [x] Memory hierarchy with diagram
+- [x] Application & System software.
+- [x] Compilers
 - [ ] Interpreters
 - [ ] Assemblers
 - [ ] High level and low level languages
@@ -29,7 +29,7 @@
 - [ ] Arrays
   - [ ] 1-Dimensional Array
     - [x] Bubble Sort
-    - [ ] Linear Search
+    - [x] Linear Search
     - [ ] Finding the maximum and minimum elements
     - [ ] Reversing an array
     - [ ] Finding the sum and average of elements
