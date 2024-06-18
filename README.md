@@ -1,6 +1,6 @@
 # Topics ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
-## [MODULE-1]
+## [MODULE-1][3]
 
 - [x] Function units of a computer -- Explain with block diagram
 - [x] Types of CPU registers
@@ -13,7 +13,7 @@
 - [x] Flow chart
 - [x] Algorithms
 - [x] Pseudo code
-- [x] [Bubble sort][1] ,linear search - algorithms, Flowchart,pseudocode
+- [x] [Bubble sort][1] ,linear search[2] - algorithms, Flowchart,pseudocode
 
 ## MODULE-2
 
@@ -86,3 +86,5 @@
 
 ---
 [1]: https://github.com/MTCodes01/C-programming/tree/main/Module%201/Bubble%20sort
+[2]: https://github.com/MTCodes01/C-programming/tree/main/Module%201/Linear%20Search
+[3]: https://github.com/MTCodes01/C-programming/tree/main/Module%201
