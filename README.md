@@ -13,9 +13,9 @@
 - [x] Flow chart
 - [x] Algorithms
 - [x] Pseudo code
-- [x] [Bubble sort][1] ,linear search[2] - algorithms, Flowchart,pseudocode
+- [x] [Bubble sort][1] ,[linear search][2] - algorithms, Flowchart,pseudocode
 
-## MODULE-2
+## [MODULE-2][4]
 
 - [x] Operators in C with eg.
 - [x] Operators Precedence
@@ -24,7 +24,7 @@
 - [x] goto statement -- Syntax with Example
 - [x] Break and Continue Statements -- Syntax with Example
 
-## MODULE-3
+## [MODULE-3][]
 
 - [x] Arrays
   - [x] 1-Dimensional Array
@@ -50,7 +50,7 @@
   - [x] puts
   - [x] gets
 
-## MODULE-4
+## [MODULE-4][]
 
 - [x] Modular programming, writing functions
 - [x] Formal & actual parameters
@@ -63,7 +63,7 @@
 - [x] Storage Classes
 - [x] Scope & life time of variables
 
-## MODULE-5
+## [MODULE-5][]
 
 - [x] Basics of Pointer
 - [x] NULL pointer
