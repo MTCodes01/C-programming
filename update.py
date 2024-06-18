@@ -1,11 +1,30 @@
+
+# You can either run the script directly from here,
+# or go to `Start here.py` file for running it through a simple UI.
+
+"""
+This script updates a progress bar URL in the README.md file based on the completed topics.
+
+The script calculates the progress percentage by counting the completed topics (indicated by '- [x]')
+and the total topics (indicated by '- [ ]' or '- [x]'). It then updates the URL in the README.md file
+to reflect the new progress percentage.
+
+Usage:
+1. Place this script in the same directory as your README.md file.
+2. Ensure the first line of the README.md file contains the progress bar URL in the format 'progress/xy' where xy is the percentage.
+3. Run the script. It will update the progress percentage in the URL based on the completed topics.
+
+Functions:
+- calculate_progress(markdown_text): Calculates the progress percentage based on the completed topics.
+- update_progress_url(): Reads the README.md file, calculates the progress, and updates the progress bar URL.
+- update(markdown_text, new_url): Writes the updated progress bar URL and the original markdown content back to the README.md file.
+
+Requirements:
+- Python 3.x
+- The 're' module (regular expressions) is part of the standard library.
+- The 'math' module is part of the standard library.
+"""
 import re, math
-
-"""
-This program is just for updating the progress bar based on the completed topics
-
-Just run this program and it will update the url for the progress bar, so that it will have the correct progress.
-NOTE: Only works if both this file and the README.md file are in the same directory/folder by default!
-"""
 
 def calculate_progress(markdown_text):
     items = re.findall(r'- \[.\]', markdown_text)
