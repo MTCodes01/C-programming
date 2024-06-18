@@ -1,5 +1,13 @@
 # Checklist ![](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
+> [!IMPORTANT]
+> If you just want to read/revise each topic and dont need a checklist then Don't mind any of the things given below;
+> 
+> else continue;
+
+Good Luck
+======
+
 > [!NOTE]
 > 
 > 1. Firstly Fork the repository
@@ -8,9 +16,6 @@
 > 4. Once marked a topic as completed just execute the `Start here.py` file.
 >     - It can update the progress bar and also has the current progress and an option to clear all.
 > 5. Remember to save the file after making changes.
-
-Good Luck
-======
 
 ## [MODULE-1][1]
 
