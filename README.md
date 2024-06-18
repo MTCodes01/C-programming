@@ -1,88 +1,99 @@
-# Topics ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+# Checklist ![](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
+
+> [!NOTE]
+> 
+> 1. Firstly Fork the repository
+> 2. Then to mark a topic as completed in this checklist, change `[ ]` to `[x]` in this `README.md` file.
+> 3. This helps track your progress.
+> 4. Once marked a topic as completed just execute the `Start here.py` file.
+>   - It can update the progress bar and also has the current progress and an option to clear all.
+> 5. Remember to save the file after making changes.
+
+===
 
 ## [MODULE-1][1]
 
-- [x] Function units of a computer -- Explain with block diagram
-- [x] Types of CPU registers
-- [x] Memory hierarchy with diagram
-- [x] Application & System software.
-- [x] Compilers
-- [x] Interpreters
-- [x] Assemblers
-- [x] High level and low level languages
-- [x] Flow chart
-- [x] Algorithms
-- [x] Pseudo code
-- [x] [Bubble sort][2] ,[linear search][3] - algorithms, Flowchart,pseudocode
+- [ ] Function units of a computer -- Explain with block diagram
+- [ ] Types of CPU registers
+- [ ] Memory hierarchy with diagram
+- [ ] Application & System software.
+- [ ] Compilers
+- [ ] Interpreters
+- [ ] Assemblers
+- [ ] High level and low level languages
+- [ ] Flow chart
+- [ ] Algorithms
+- [ ] Pseudo code
+- [ ] [Bubble sort][2] ,[linear search][3] - algorithms, Flowchart,pseudocode
 
 ## [MODULE-2][4]
 
-- [x] Operators in C with eg.
-- [x] Operators Precedence
-- [x] Control Flow Statements -- Syntax with Example
-- [x] Looping Statement -- Syntax with Example
-- [x] goto statement -- Syntax with Example
-- [x] Break and Continue Statements -- Syntax with Example
+- [ ] Operators in C with eg.
+- [ ] Operators Precedence
+- [ ] Control Flow Statements -- Syntax with Example
+- [ ] Looping Statement -- Syntax with Example
+- [ ] goto statement -- Syntax with Example
+- [ ] Break and Continue Statements -- Syntax with Example
 
 ## [MODULE-3][5]
 
-- [x] Arrays
-  - [x] [1-Dimensional Array][6]
-    - [x] Bubble Sort
-    - [x] Linear Search
-    - [x] Finding the maximum and minimum elements
-    - [x] Reversing an array
-    - [x] Finding the sum and average of elements
-    - [x] Removing duplicates from an array
-    - [x] Merging two arrays
-    - [x] Rotating an array (left or right)
-  - [x] [2-Dimensional Array][7]
-    - [x] Matrix Addition
-    - [x] Matrix Subtration
-    - [x] Matrix Multiplication
-    - [x] Matrix Transpose
-- [x] [Strings][8]
-- [x] String handling functions
-  - [x] strlen
-  - [x] strcpy
-  - [x] strcat
-  - [x] strcmp
-  - [x] puts
-  - [x] gets
+- [ ] Arrays
+  - [ ] [1-Dimensional Array][6]
+    - [ ] Bubble Sort
+    - [ ] Linear Search
+    - [ ] Finding the maximum and minimum elements
+    - [ ] Reversing an array
+    - [ ] Finding the sum and average of elements
+    - [ ] Removing duplicates from an array
+    - [ ] Merging two arrays
+    - [ ] Rotating an array (left or right)
+  - [ ] [2-Dimensional Array][7]
+    - [ ] Matrix Addition
+    - [ ] Matrix Subtration
+    - [ ] Matrix Multiplication
+    - [ ] Matrix Transpose
+- [ ] [Strings][8]
+- [ ] String handling functions
+  - [ ] strlen
+  - [ ] strcpy
+  - [ ] strcat
+  - [ ] strcmp
+  - [ ] puts
+  - [ ] gets
 
 ## [MODULE-4][9]
 
-- [x] Modular programming, writing functions
-- [x] Formal & actual parameters
-- [x] Pass by Value with eg
-- [x] Recursion
-- [x] Arrays as Function Parameters
-- [x] Bubble sort using function
-- [x] Linear Search using funtion
-- [x] structure & union
-- [x] Storage Classes
-- [x] Scope & life time of variables
+- [ ] Modular programming, writing functions
+- [ ] Formal & actual parameters
+- [ ] Pass by Value with eg
+- [ ] Recursion
+- [ ] Arrays as Function Parameters
+- [ ] Bubble sort using function
+- [ ] Linear Search using funtion
+- [ ] structure & union
+- [ ] Storage Classes
+- [ ] Scope & life time of variables
 
 ## [MODULE-5][10]
 
-- [x] Basics of Pointer
-- [x] NULL pointer
-- [x] Array and pointers
-- [x] Pass by reference with eg
-- [x] File Operations:
-  - [x] open
-  - [x] close
-  - [x] read
-  - [x] write
-  - [x] append
-- [x] Sequential access and random access to files.
-- [x] File handling function
-  - [x] rewind()
-  - [x] fseek()
-  - [x] ftell()
-  - [x] feof()
-  - [x] fread()
-  - [x] fwrite()
+- [ ] Basics of Pointer
+- [ ] NULL pointer
+- [ ] Array and pointers
+- [ ] Pass by reference with eg
+- [ ] File Operations:
+  - [ ] open
+  - [ ] close
+  - [ ] read
+  - [ ] write
+  - [ ] append
+- [ ] Sequential access and random access to files.
+- [ ] File handling function
+  - [ ] rewind()
+  - [ ] fseek()
+  - [ ] ftell()
+  - [ ] feof()
+  - [ ] fread()
+  - [ ] fwrite()
 
 ---
 [1]: https://github.com/MTCodes01/C-programming/tree/main/Module%201
