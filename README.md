@@ -111,3 +111,9 @@
 [8]: https://github.com/MTCodes01/C-programming/tree/main/Module%203/Strings
 [9]: https://github.com/MTCodes01/C-programming/tree/main/Module%204
 [10]: https://github.com/MTCodes01/C-programming/tree/main/Module%205
+
+---
+
+<div align="center">
+  Made by MTCode01, Just improved my 2 year old program!
+</div>
